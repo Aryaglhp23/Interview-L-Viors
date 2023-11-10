@@ -1,0 +1,3 @@
+mohon maaf sebelumnya, untuk Front-End nya masih belum bisa saya selesaikan 
+sesuai ketentuan dari tes project yang disepakati karena kurangya kemampuan saya dalam mengusai framework React JS
+dengan ini semoga dapat menjadi pertimbangan perusahaan
